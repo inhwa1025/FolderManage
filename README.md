@@ -27,7 +27,8 @@
 
 ## 클래스 다이어그램
 
-![Diagram.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/219b1719-9b93-42e7-a6e1-45da2231dead/Diagram.jpg)
+![Diagram](https://user-images.githubusercontent.com/64248143/145049863-6d649611-3fe1-48aa-aff2-2cb7cf997e0f.JPG)
+
 
 ## 개발 환경
 
